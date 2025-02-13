@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BitfinexWPFLibrary.Models
+namespace BitfinexLibrary.Models
 {
     public class Candle
     {

@@ -1,11 +1,8 @@
-﻿using BitfinexWPFLibrary.Interfaces;
-using BitfinexWPFLibrary.Models;
-using System.Net;
-using System.Net.Http;
-using System.Reflection.Metadata;
+﻿using BitfinexLibrary.Interfaces;
+using BitfinexLibrary.Models;
 using System.Text.Json;
 
-namespace BitfinexWPFLibrary.Clients
+namespace BitfinexLibrary.Clients
 {
     public class RestClient : IRestClient
     {
